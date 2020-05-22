@@ -1,16 +1,16 @@
 {
   "main.css": "/wordlist/static/css/main.d22b97a2.chunk.css",
-  "main.js": "/wordlist/static/js/main.e127f83e.chunk.js",
-  "main.js.map": "/wordlist/static/js/main.e127f83e.chunk.js.map",
+  "main.js": "/wordlist/static/js/main.a8e83043.chunk.js",
+  "main.js.map": "/wordlist/static/js/main.a8e83043.chunk.js.map",
   "static/css/1.b652271b.chunk.css": "/wordlist/static/css/1.b652271b.chunk.css",
   "static/js/1.7a0e6e51.chunk.js": "/wordlist/static/js/1.7a0e6e51.chunk.js",
   "static/js/1.7a0e6e51.chunk.js.map": "/wordlist/static/js/1.7a0e6e51.chunk.js.map",
   "runtime~main.js": "/wordlist/static/js/runtime~main.b3c50490.js",
   "runtime~main.js.map": "/wordlist/static/js/runtime~main.b3c50490.js.map",
-  "static/css/main.d22b97a2.chunk.css.map": "/wordlist/static/css/main.d22b97a2.chunk.css.map",
-  "static/media/index.css": "/wordlist/static/media/FredokaOne-Regular.4a2f2ea4.ttf",
   "static/css/1.b652271b.chunk.css.map": "/wordlist/static/css/1.b652271b.chunk.css.map",
+  "static/media/index.css": "/wordlist/static/media/FredokaOne-Regular.4a2f2ea4.ttf",
+  "static/css/main.d22b97a2.chunk.css.map": "/wordlist/static/css/main.d22b97a2.chunk.css.map",
   "index.html": "/wordlist/index.html",
-  "precache-manifest.99697f320ce1618a25cf605050bdd181.js": "/wordlist/precache-manifest.99697f320ce1618a25cf605050bdd181.js",
+  "precache-manifest.3896922f06e7707ad88082e0277101c1.js": "/wordlist/precache-manifest.3896922f06e7707ad88082e0277101c1.js",
   "service-worker.js": "/wordlist/service-worker.js"
 }
