@@ -1,7 +1,7 @@
 {
   "main.css": "/wordlist/static/css/main.642417a2.chunk.css",
-  "main.js": "/wordlist/static/js/main.175d43be.chunk.js",
-  "main.js.map": "/wordlist/static/js/main.175d43be.chunk.js.map",
+  "main.js": "/wordlist/static/js/main.15e14a4b.chunk.js",
+  "main.js.map": "/wordlist/static/js/main.15e14a4b.chunk.js.map",
   "static/css/1.b652271b.chunk.css": "/wordlist/static/css/1.b652271b.chunk.css",
   "static/js/1.196541b2.chunk.js": "/wordlist/static/js/1.196541b2.chunk.js",
   "static/js/1.196541b2.chunk.js.map": "/wordlist/static/js/1.196541b2.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/media/index.css": "/wordlist/static/media/Questrial-Regular.7775b2ab.ttf",
   "static/css/main.642417a2.chunk.css.map": "/wordlist/static/css/main.642417a2.chunk.css.map",
   "index.html": "/wordlist/index.html",
-  "precache-manifest.92d57808de9361eab2a5b5dd6ff2be5e.js": "/wordlist/precache-manifest.92d57808de9361eab2a5b5dd6ff2be5e.js",
+  "precache-manifest.781a289ba71ab8dba2c550b07c32fad2.js": "/wordlist/precache-manifest.781a289ba71ab8dba2c550b07c32fad2.js",
   "service-worker.js": "/wordlist/service-worker.js"
 }
